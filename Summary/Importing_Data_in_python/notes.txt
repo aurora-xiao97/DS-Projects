@@ -1,0 +1,3 @@
+Data science is fun.
+Flat files are everywhere.
+Pandas makes life easier.
